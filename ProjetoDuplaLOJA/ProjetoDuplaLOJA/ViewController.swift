@@ -18,7 +18,6 @@ let nome: String
 class ViewController: UIViewController {
     
  
-    
     @IBOutlet weak var tableView: UITableView!
     
     let listaJogos: [jogos] = [
